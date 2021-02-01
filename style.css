@@ -1,0 +1,36 @@
+#text-output {
+  min-height: 200px;
+  border-radius: 3px;
+  padding: 10px;
+  word-wrap: break-word;
+  text-align: left;
+  font-size: 1.5rem;
+}
+#italic {
+  font-style: italic;
+}
+#text-input {
+  min-height: 200px;
+  font-size: 1.5rem;
+}
+
+.editor .col {
+  max-width: 50%;
+  flex-basis: 50%;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+span {
+  color: red;
+}
